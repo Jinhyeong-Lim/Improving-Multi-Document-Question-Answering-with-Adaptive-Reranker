@@ -1,1 +1,1 @@
-# Improving-Multi-Document-Question-Answering-with-Adaptive-Reranker
+# Improving Open-Domain Question Answering through Reranker with Filtering
